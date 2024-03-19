@@ -17,11 +17,11 @@ Publications
 ======
 - He X, **Li M**, Zhou M, et al. [Gross nitrogen transformations and ammonia oxidizers affected by nitrification inhibitors and/or organic amendments in a calcareous soil: A <sup>15</sup>N tracing study](https://www.sciencedirect.com/science/article/abs/pii/S0929139323001245)[J]. *Applied Soil Ecology*, 2023, 188: 104926.
 
-- Lan T, **Li M**, He X, et al. Effects of exogenous carbon and nitrification inhibitors on denitrification rate, product stoichiometry and nirS/nirK-type denitrifiers in a calcareous soil: evidence from <sup>15</sup>N anaerobic microcosm assays[J]. *Journal of Soils and Sediments*, 2023, 23(3): 1217-1232.
+- Lan T, **Li M**, He X, et al. [Effects of exogenous carbon and nitrification inhibitors on denitrification rate, product stoichiometry and nirS/nirK-type denitrifiers in a calcareous soil: evidence from <sup>15</sup>N anaerobic microcosm assays](https://link.springer.com/article/10.1007/s11368-022-03406-6))[J]. *Journal of Soils and Sediments*, 2023, 23(3): 1217-1232.
 
-- Lan T, **Li M**, He X, et al. Effects of synthetic nitrification inhibitor (3, 4-dimethylpyrazole phosphate; DMPP) and biological nitrification inhibitor (methyl 3-(4-hydroxyphenyl) propionate; MHPP) on the gross N nitrification rate and ammonia oxidizers in two contrasting soils[J]. *Biology and Fertility of Soils*, 2022, 58(3): 333-344.
+- Lan T, **Li M**, He X, et al. [Effects of synthetic nitrification inhibitor (3, 4-dimethylpyrazole phosphate; DMPP) and biological nitrification inhibitor (methyl 3-(4-hydroxyphenyl) propionate; MHPP) on the gross N nitrification rate and ammonia oxidizers in two contrasting soils](https://link.springer.com/article/10.1007/s00374-022-01628-x)[J]. *Biology and Fertility of Soils*, 2022, 58(3): 333-344.
 
-- Lan T, **Li M**, Han Y, et al. How annual CH<sub>4</sub>, N<sub>2</sub>O, and NO emissions from rice-wheat system are affected by nitrogen fertilizer rate and type?[J]. *Applied Soil Ecology*, 2020, 150: 103469.
+- Lan T, **Li M**, Han Y, et al. [How annual CH<sub>4</sub>, N<sub>2</sub>O, and NO emissions from rice-wheat system are affected by nitrogen fertilizer rate and type?](https://www.sciencedirect.com/science/article/abs/pii/S0929139319309515)[J]. *Applied Soil Ecology*, 2020, 150: 103469.
 
 Research Experience
 ======
