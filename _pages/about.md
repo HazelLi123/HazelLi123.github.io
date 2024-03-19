@@ -15,7 +15,7 @@ You can find my CV here:[Curriculum Vitae ](../assets/CV.pdf)
 
 Publications
 ======
-- He X, **Li M**, Zhou M, et al. Gross nitrogen transformations and ammonia oxidizers affected by nitrification inhibitors and/or organic amendments in a calcareous soil: A <sup>15</sup>N tracing study[J]. *Applied Soil Ecology*, 2023, 188: 104926.
+- He X, **Li M**, Zhou M, et al. [Gross nitrogen transformations and ammonia oxidizers affected by nitrification inhibitors and/or organic amendments in a calcareous soil: A <sup>15</sup>N tracing study](https://www.sciencedirect.com/science/article/abs/pii/S0929139323001245)[J]. *Applied Soil Ecology*, 2023, 188: 104926.
 
 - Lan T, **Li M**, He X, et al. Effects of exogenous carbon and nitrification inhibitors on denitrification rate, product stoichiometry and nirS/nirK-type denitrifiers in a calcareous soil: evidence from <sup>15</sup>N anaerobic microcosm assays[J]. *Journal of Soils and Sediments*, 2023, 23(3): 1217-1232.
 
@@ -25,10 +25,10 @@ Publications
 
 Research Experience
 ======
-**Lan Ting's Research Team in Sichuan Agricultural University**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dec.2023 – Present*  
+**Lan Ting's Research Team in Sichuan Agricultural University**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dec.2023 – Present*  
 *Research Assistant*
   
-**Study on the characteristics of nitrogen transformation in purple** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Jul.2018 – Jan.2020*   
+**Study on the characteristics of nitrogen transformation in purple** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Jul.2018 – Jan.2020*   
 **soil In Transfer Process and Loss Control Mechanism of Fertilizer**   
 **Nitrogen project(*National key R & D Plan project 2017YFD0200100*)**    
 *Key Member*
