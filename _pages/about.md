@@ -25,7 +25,7 @@ Publications
 
 Research Experience
 ======
-- <span style="color: darkgray; font-style: italic;">Dec.2023 – Present</span>
+- <span style="color: darkgray; font-style: italic;">Dec.2023 – Present</span>  
   Lan Ting's Research Team in Sichuan Agricultural University  
   <span style="color: darkgray; font-style: italic;">Research Assistant</span>
   
