@@ -26,7 +26,7 @@ Publications
 Research Experience
 ======
 - *Dec.2023 – Present*    
-  <span style="color: #2F4F4F;">Lan Ting's Research Team in Sichuan Agricultural University</span>     
+  <span style="color: darkgray;">Lan Ting's Research Team in Sichuan Agricultural University</span>     
   *Research Assistant*
   
 - *Jul.2018 – Jan.2020*     
