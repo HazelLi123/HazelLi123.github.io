@@ -25,20 +25,19 @@ Publications
 
 Research Experience
 ======
-**Lan Ting's Research Team in Sichuan Agricultural University**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dec.2023 – Present*  
+*Dec.2023 – Present*  
+**Lan Ting's Research Team in Sichuan Agricultural University**  
 *Research Assistant*
   
-**Study on the characteristics of nitrogen transformation in purple** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Jul.2018 – Jan.2020*   
-**soil In Transfer Process and Loss Control Mechanism of Fertilizer**   
-**Nitrogen project(*National key R & D Plan project 2017YFD0200100*)**    
+*Jul.2018 – Jan.2020*   
+**Study on the characteristics of nitrogen transformation in purple soil In Transfer Process and Loss Control Mechanism of Fertilizer Nitrogen project (*National key R & D Plan project 2017YFD0200100*)**  
 *Key Member*
  
-
-**Exchange Programme at the Nanjing Normal University on the**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dec.2018*     
-**Isotope Tracer method**    
+*Dec.2018*  
+**Exchange Programme at the Nanjing Normal University on the Isotope Tracer method**      
 *Research Assistant*
   
-
-**National Natural Science Foundation Program of China**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Nov.2017 – Jun.2018*                          
+*Nov.2017 – Jun.2018* 
+**National Natural Science Foundation Program of China**                           
 *Research Assistant*
   
