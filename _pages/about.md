@@ -37,7 +37,7 @@ Research Experience
   **Exchange Programme at the Nanjing Normal University on the Isotope Tracer method**      
   *Research Assistant*
   
-- *Nov.2017 – Jun.2018* 
+- *Nov.2017 – Jun.2018*   
   **National Natural Science Foundation Program of China**                           
   *Research Assistant*
   
