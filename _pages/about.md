@@ -30,14 +30,14 @@ Research Experience
   *Research Assistant*
   
 - *Jul.2018 – Jan.2020*     
-  <span style="color: #2F4F4F;">Study on the characteristics of nitrogen transformation in purple soil In Transfer Process and Loss Control Mechanism of Fertilizer Nitrogen project (*National key R & D Plan project 2017YFD0200100*)</span>     
+  <span style="color: #707070;">Study on the characteristics of nitrogen transformation in purple soil In Transfer Process and Loss Control Mechanism of Fertilizer Nitrogen project (*National key R & D Plan project 2017YFD0200100*)</span>     
   *Key Member*
  
 - *Dec.2018*  
-  <span style="color: #2F4F4F;">Exchange Programme at the Nanjing Normal University on the Isotope Tracer method</span>  
+  <span style="color: #707070;">Exchange Programme at the Nanjing Normal University on the Isotope Tracer method</span>  
   *Research Assistant*
   
 - *Nov.2017 – Jun.2018*   
-  <span style="color: #2F4F4F;">National Natural Science Foundation Program of China</span>                            
+  <span style="color: #707070;">National Natural Science Foundation Program of China</span>                            
   *Research Assistant*
   
