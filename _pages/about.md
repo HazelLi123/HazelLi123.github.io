@@ -38,6 +38,6 @@ Research Experience
   *Research Assistant*
   
 - *Nov.2017 – Jun.2018*   
-  <span style="color: #707070;">National Natural Science Foundation Program of China</span>                            
+  <span style="color: #707070;">Study on the Evolution of Nitrogen Transformation Processes during the Development of Purple Soil (National Natural Science Foundation of China, Grant No. 41501243)</span>                            
   *Research Assistant*
   
