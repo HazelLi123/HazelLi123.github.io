@@ -11,7 +11,7 @@ I earned my Master of Agriculture in Soil Science from [Sichuan Agricultural Uni
 
 My research interests include soil nutrient cycling, soil-plant interactions, greenhouse gas emissions, fertilizer management, and the enhancement of fertilizer efficacy. I am also interested in developing predictive models for soil nutrient cycling to refine fertilization strategies and evaluate their environmental impacts. 
 
-You can find my CV here:[Curriculum Vitae ](../assets/CV.pdf)
+You can find my CV here:[Curriculum Vitae ](../assets/CV1.pdf)
 
 Publications
 ======
