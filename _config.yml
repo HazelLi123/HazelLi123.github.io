@@ -21,7 +21,7 @@ repository               : "HazelLi123/HazelLi123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portraitfinal.jpg"
+  avatar           : "portraitfinal"
   name             : "Mengxiao Li"
   pronouns         : # example: "she/her"  
   bio              : "A person who really loves life"
