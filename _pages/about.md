@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Master of Agriculture in Soil Science from [Sichuan Agricultural University](https://www.sicau.edu.cn). During my graduate studies, I focused on the effects of nitrogen amendments on key nitrogen transformation processes in alkaline soils. 
+I earned my Master of Agriculture in Soil Science from [Sichuan Agricultural University](https://www.sicau.edu.cn). During my graduate studies, I focused on the effects of nitrogen amendments on key nitrogen transformation processes in alkaline soils. Later, as a research assistant, I concentrated on the interaction between soil properties and microbial communities, including the impact of microplastics and cadmium on soil microbial activity and plant growth. 
 
 My research interests encompass soil nutrient cycling, soil-plant interactions, greenhouse gas emissions, fertilizer management, and the enhancement of fertilizer efficacy. I am also interested in developing predictive models for soil nutrient cycling to optimize fertilization strategies and assess their environmental impacts, as well as exploring soil-microbe interactions and the integration of soil science with AI.
 
