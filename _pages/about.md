@@ -9,12 +9,14 @@ redirect_from:
 
 I earned my Master of Agriculture in Soil Science from [Sichuan Agricultural University](https://www.sicau.edu.cn). During my graduate studies, I focused on the effects of nitrogen amendments on key nitrogen transformation processes in alkaline soils. 
 
-My research interests include soil nutrient cycling, soil-plant interactions, greenhouse gas emissions, fertilizer management, and the enhancement of fertilizer efficacy. I am also interested in developing predictive models for soil nutrient cycling to refine fertilization strategies and evaluate their environmental impacts. 
+My research interests encompass soil nutrient cycling, soil-plant interactions, greenhouse gas emissions, fertilizer management, and the enhancement of fertilizer efficacy. I am also interested in developing predictive models for soil nutrient cycling to optimize fertilization strategies and assess their environmental impacts, as well as exploring soil-microbe interactions and the integration of soil science with AI.
 
-You can find my CV here:[Curriculum Vitae ](../assets/CV1.pdf)
+You can find my CV here:[Curriculum Vitae ](../assets/CV-Li Mengxiao.pdf)
 
 Publications
 ======
+- **Li M**, He J, Chen X, et al. [Interactive Effects of Microplastics and Cadmium on Soil Properties, Microbial Communities, and Plant Growth][J]. Submitted to *Science of the Total Environment*.
+  
 - He X, **Li M**, Zhou M, et al. [Gross nitrogen transformations and ammonia oxidizers affected by nitrification inhibitors and/or organic amendments in a calcareous soil: A <sup>15</sup>N tracing study](https://www.sciencedirect.com/science/article/abs/pii/S0929139323001245)[J]. *Applied Soil Ecology*, 2023, 188: 104926.
 
 - Lan T, **Li M**, He X, et al. [Effects of exogenous carbon and nitrification inhibitors on denitrification rate, product stoichiometry and nirS/nirK-type denitrifiers in a calcareous soil: evidence from <sup>15</sup>N anaerobic microcosm assays](https://link.springer.com/article/10.1007/s11368-022-03406-6))[J]. *Journal of Soils and Sediments*, 2023, 23(3): 1217-1232.
