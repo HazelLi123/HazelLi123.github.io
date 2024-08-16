@@ -11,7 +11,7 @@ I earned my Master of Agriculture in Soil Science from [Sichuan Agricultural Uni
 
 My research interests encompass soil nutrient cycling, soil-plant interactions, greenhouse gas emissions, fertilizer management, and the enhancement of fertilizer efficacy. I am also interested in developing predictive models for soil nutrient cycling to optimize fertilization strategies and assess their environmental impacts, as well as exploring soil-microbe interactions and the integration of soil science with AI.
 
-You can find my CV here:[Curriculum Vitae ](../assets/CV-Li Mengxiao.pdf)
+You can find my CV here: [Curriculum Vitae ](../assets/CV-Li Mengxiao.pdf)
 
 Publications
 ======
