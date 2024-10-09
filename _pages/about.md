@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Master of Agriculture in Soil Science from [Sichuan Agricultural University](https://www.sicau.edu.cn). During my graduate studies, I focused on the effects of nitrogen amendments on key nitrogen transformation processes in alkaline soils. Later, as a research assistant, I concentrated on the interaction between soil properties and microbial communities, including the impact of microplastics and cadmium on soil microbial activity and plant growth. 
+I earned my Master of Agriculture in Soil Science from [Sichuan Agricultural University](https://www.sicau.edu.cn). During my graduate studies, I focused on the effects of nitrogen amendments on key nitrogen transformation processes in alkaline soils. Later, as a research assistant, I focused on the interactive effects of microplastics and cadmium on soil properties, microbial communities, and plant growth. 
 
 My research interests encompass soil nutrient cycling, soil-plant interactions, greenhouse gas emissions, fertilizer management, and the enhancement of fertilizer efficacy. I am also interested in developing predictive models for soil nutrient cycling to optimize fertilization strategies and assess their environmental impacts, as well as exploring soil-microbe interactions and the integration of soil science with AI.
 
@@ -15,7 +15,7 @@ You can find my CV here: [Curriculum Vitae ](../assets/CV-Li Mengxiao.pdf)
 
 Publications
 ======
-- **Li M**, He J, Chen X, et al. Interactive effects of microplastics and cadmium on soil properties, microbial communities, and plant growth [J]. *Science of the Total Environment* (accepted).
+- **Li M**, He J, Chen X, et al. Interactive effects of microplastics and cadmium on soil properties, microbial communities, and bok choy growth [J]. *Science of the Total Environment* (accepted).
   
 - He X, **Li M**, Zhou M, et al. [Gross nitrogen transformations and ammonia oxidizers affected by nitrification inhibitors and/or organic amendments in a calcareous soil: A <sup>15</sup>N tracing study](https://www.sciencedirect.com/science/article/abs/pii/S0929139323001245)[J]. *Applied Soil Ecology*, 2023, 188: 104926.
 
