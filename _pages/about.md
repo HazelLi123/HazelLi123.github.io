@@ -15,7 +15,7 @@ You can find my CV here: [Curriculum Vitae ](../assets/CV-Li Mengxiao.pdf)
 
 Publications
 ======
-- **Li M**, He J, Chen X, et al. Interactive effects of microplastics and cadmium on soil properties, microbial communities, and bok choy growth [J]. *Science of the Total Environment* (accepted).
+- **Li M**, He J, Chen X, et al. [Interactive effects of microplastics and cadmium on soil properties, microbial communities and bok choy growth](https://www.sciencedirect.com/science/article/abs/pii/S0048969721007658)[J]. *Science of The Total Environment*, 2024: 176831..
   
 - He X, **Li M**, Zhou M, et al. [Gross nitrogen transformations and ammonia oxidizers affected by nitrification inhibitors and/or organic amendments in a calcareous soil: A <sup>15</sup>N tracing study](https://www.sciencedirect.com/science/article/abs/pii/S0929139323001245)[J]. *Applied Soil Ecology*, 2023, 188: 104926.
 
